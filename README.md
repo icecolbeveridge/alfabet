@@ -5,8 +5,7 @@ Q: How many "letters" can be made by connecting three distinct groups of adjacen
 
 A: 286, I think
 
-Output:
-
+```
 0
 	***
 	%%%
@@ -1436,3 +1435,5 @@ Output:
 	...
 	*%%
 	%**
+
+```
