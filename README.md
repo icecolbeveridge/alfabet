@@ -1,5 +1,5 @@
 # alfabet
-Combinatorics for Will's alien alphabet
+Combinatorics for [Will](https://www.wmad.co.uk/about/)'s alien alphabet
 
 Q: How many "letters" can be made by connecting three distinct groups of adjacent points in a 3-by-3 grid?
 
